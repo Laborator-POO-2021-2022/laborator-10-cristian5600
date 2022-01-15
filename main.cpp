@@ -3,7 +3,6 @@
 #include "gaini.hpp"
 #include "porci.hpp"
 #include "capre.hpp"
-#include <iostream>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
